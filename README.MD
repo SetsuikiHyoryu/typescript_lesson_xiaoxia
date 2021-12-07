@@ -2,13 +2,21 @@
 
 ## 視頻地址
 
+※ 進階篇的内容已經包含在第一個視頻中了
+
 - 【全网首发:更新中】typescript手册从零3天全面通:  
   <https://www.bilibili.com/video/BV1MZ4y157EP>
 
 - 【全网首发:更新中】typescript手册从零3天全面通--进阶篇:  
   <https://www.bilibili.com/video/BV185411574h>
 
-## 初始化原生 TypeScript
+## 說明
+
+- 這個筆記衹記録了我沒掌握的或者掌握得不牢固的知識點，初學者想學習完整内容請自行觀看視頻。
+- `code/src/index.ts` 是 `note` 中的筆記記録的代碼块的實際寫出來的效果。
+- 一些我能肯定沒有疑問的代碼块沒有寫在 `code/src/index.ts` 中。
+
+## 在空白文件夾中初始化 TypeScript
 
 ### 安裝
 
